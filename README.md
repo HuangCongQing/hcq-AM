@@ -1,8 +1,10 @@
 # hcq-AM
 ##  Used Name vfx-AM
-[![标签](https://img.shields.io/teamcity/codebetter/bt428.svg)]() 
-[![标签](https://img.shields.io/npm/v/@cycle/core.svg)]() 
-[![标签](https://img.shields.io/npm/dm/localeval.svg)]()
+![标签](https://img.shields.io/teamcity/codebetter/bt428.svg)
+![标签](https://img.shields.io/npm/v/@cycle/core.svg)
+![标签](https://img.shields.io/npm/dm/localeval.svg)
+![Read the Docs](https://img.shields.io/readthedocs/pip.svg)
+
 
 >special-effects，About Myself,自我介绍
 
