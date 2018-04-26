@@ -119,7 +119,7 @@ html{
 
 Web前端开发工程师
 
-[下载离线简历](./resume.pdf)
+[下载离线简历](https://github.com/HuangCongQing/hcq-AM/blob/master/data/resume.pdf)
 
 个人相关
 ----
