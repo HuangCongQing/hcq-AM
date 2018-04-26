@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/ && http://www.sitexa.org/
-* 大家好，我是南方。
+* 大家好，我是阿小庆。
 * 我来写一份简历！
 */
 
