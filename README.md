@@ -8,6 +8,7 @@
 
 ## 截图
 ![简历](https://upload-images.jianshu.io/upload_images/4340772-4655bd187331fac4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![动态图](./resume.gif)
 ## 安装与运行
 ```
 git clone https://github.com/ HuangCongQing/hcq-AM.git
