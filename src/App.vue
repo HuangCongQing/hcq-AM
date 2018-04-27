@@ -127,7 +127,7 @@ Web前端开发工程师
 * 微信：hcq1756260160
 * 个人公众号：重庆小哥稳
 * GitHub：https://github.com/HuangCongQing
-* 个人主页：huangchongqing.top
+* 个人主页：http://www.huangchongqing.top
 
 
 实践经历（勤奋蜂科技）2016.06 ~ 至今
