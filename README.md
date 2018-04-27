@@ -8,7 +8,12 @@
 
 >special-effects，About Myself,自我介绍
 
+
 感兴趣的童鞋可以来个star
+
+## 链接
+
+http://huangchongqing.top/am/
 
 ## 截图
 
