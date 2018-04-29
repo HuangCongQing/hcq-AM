@@ -39,7 +39,7 @@ npm run build //项目打包
 
 * 添加动态打字效果
 * 添加md文档格式
-* 添加背景音乐
+* [添加背景音乐](https://blog.csdn.net/woyidingshijingcheng/article/details/75311699)
 
 
 
