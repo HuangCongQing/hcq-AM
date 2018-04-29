@@ -3,7 +3,7 @@
     <audio class="success" 
        autoplay="autoplay" 
        preload="auto"
-       src="/static/mysoul.mp3" style="overflow:hidden;">
+       src="http://huangchongqing.top/am/static/mysoul.mp3" style="overflow:hidden;">
     </audio>
     <StyleEditor ref="styleEditor" :code="currentStyle"></StyleEditor>
     <ResumeEditor ref="resumeEditor" :markdown="currentMarkdown" :enableHtml="enableHtml"></ResumeEditor>
