@@ -35,7 +35,7 @@
 /* 白色背景太单调了，我们来点背景 */
 html {
   color: rgb(222,222,222);
-  background: rgb(0,43,54);
+  background: rgb(40,29,87);;
 }
 /* 文字离边框太近了 */
 .styleEditor {

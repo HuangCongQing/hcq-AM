@@ -34,7 +34,7 @@
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(222,222,222); background: rgb(40,29,87);
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -68,7 +68,7 @@ html{
   padding: .5em;  margin: .5em;
   width: 48vw; height: 90vh;
   border: 1px solid;
-  background: white; color: #222;
+  background: wrgb(12,65,49);hite; color: #222;
   overflow: auto;
 }
 /* 好了，我开始写简历了 */
