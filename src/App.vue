@@ -69,7 +69,7 @@ html{
   padding: .5em;  margin: .5em;
   width: 48vw; height: 90vh;
   border: 1px solid;
-  background: rgb(12,65,49); color: #222;
+  background: rgb(185,246,227); color: #222;
   overflow: auto;
 }
 /* 好了，我开始写简历了 */
