@@ -24,19 +24,20 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/ && http://www.sitexa.org/
+* 我来模仿一下人家大佬做的简历！先说一句，献丑了。
 * 大家好，我是阿小庆。
-* 我来写一份简历！
+* 我来写一份简历！不足之处，还望海涵！海涵！
 */
 
 /* 首先给所有元素加上过渡效果 */
 * {
   transition: all .3s;
 }
-/* 白色背景太单调了，我们来点背景 */
+/* 白色背景太单调了，来来来，我们来点背景 */
 html {
   color: rgb(222,222,222); background: rgb(40,29,87);
 }
-/* 文字离边框太近了 */
+/*额， 文字离边框太近了 */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -44,7 +45,7 @@ html {
   overflow: auto;
   width: 45vw; height: 90vh;
 }
-/* 代码高亮 */
+/* 代码高亮，没毛病 */
 .token.selector{ color: rgb(133,153,0); }
 .token.property{ color: rgb(187,137,0); }
 .token.punctuation{ color: yellow; }
@@ -68,7 +69,7 @@ html{
   padding: .5em;  margin: .5em;
   width: 48vw; height: 90vh;
   border: 1px solid;
-  background: wrgb(12,65,49);hite; color: #222;
+  background: rgb(12,65,49); color: #222;
   overflow: auto;
 }
 /* 好了，我开始写简历了 */
@@ -77,7 +78,7 @@ html{
 `,`
 /* 这个简历好像差点什么
  * 对了，这是 Markdown 格式的，我需要变成对 HR 更友好的格式
- * 简单，用开源工具翻译成 HTML 就行了
+ * 可以用开源工具翻译成 HTML ，啦啦啦
  */
 `,`
 /* 再对 HTML 加点样式 */
