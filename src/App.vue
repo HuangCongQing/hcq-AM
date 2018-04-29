@@ -84,6 +84,11 @@ html{
 /* 再对 HTML 加点样式 */
 .resumeEditor{
   padding: 2em;
+  position: fixed; right: 0; top: 0;
+  -webkit-transition: none;
+  transition: none;
+  -webkit-transform: rotateY(-10deg) translateZ(-100px) ;
+          transform: rotateY(-10deg) translateZ(-100px) ;
 }
 .resumeEditor h2{
   display: inline-block;
@@ -161,13 +166,13 @@ kdown 进行文档编写，并以Linux 、Sublime 、VSCode 作为日常
 
 奖项证书
 ----
-* 2015.12 重邮一二九爱国书法大赛 · 三等奖     院校级
-* 2016.05 重邮物联网创新应用大赛 · 三等奖     院校级
-* 2016.05 重邮“E.A.电子设计大赛” · 二等奖   院校级
-* 2016.09 中国创新创业大赛全国赛最受欢迎奖  国家级
-* 2016.10 国家励志奖学金                                 国家级
-* 2017.10 国家励志奖学金                                 国家级
-* 2018.02 美国大学生数学建模竞赛（MCM/ICM）· 一等奖 国际级
+* 2015.12 重邮一二九爱国书法大赛 · 三等奖            院校级
+* 2016.05 重邮物联网创新应用大赛 · 三等奖            院校级
+* 2016.05 重邮“E.A.电子设计大赛” · 二等奖           院校级
+* 2016.09 中国创新创业大赛全国赛最受欢迎奖           国家级
+* 2016.10 国家励志奖学金                           国家级
+* 2017.10 国家励志奖学金                           国家级
+* 2018.02 美国大学生数学建模竞赛（MCM/ICM）· 一等奖  国际级
 
 个人素质
 ----

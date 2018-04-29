@@ -98,6 +98,11 @@ html{
 /* 再对 HTML 加点样式 */
 .resumeEditor{
   padding: 2em;
+  position: fixed; right: 0; top: 0;
+  -webkit-transition: none;
+  transition: none;
+  -webkit-transform: rotateY(-10deg) translateZ(-100px) ;
+          transform: rotateY(-10deg) translateZ(-100px) ;
 }
 .resumeEditor h2{
   display: inline-block;
