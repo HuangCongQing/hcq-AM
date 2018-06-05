@@ -9,6 +9,8 @@
 >special-effects，About Myself,自我介绍
 
 
+Fork或借鉴请注明出处 [@ChungKing](http://huangchongqing.top/am/) . Thx
+
 感兴趣的童鞋可以来个star
 
 ## 链接
